@@ -11,7 +11,7 @@ any economical transaction in to the system. The main problem in today's date is
 having any centralize database of individual person, and because of that it is impossible to take
 proper precaution for prevention of any viral disease. Next is when doctor give any prescription to
 patient doctor do not have any record of that prescription. So next time if doctor wants to take
-any past reference of same patient than it is not possible. So when we have this system, doctor
+any past reference of same patient than it is not possible. When we have this system, doctor
 can record every minor details of every case of patient which can be refer any time. This
 definition is aiming to store all the health related information day to day data centrally which can
 be analysed by using certain mechanism to retrieve the health trends of different state, city and
