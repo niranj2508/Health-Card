@@ -1,5 +1,4 @@
 # Health-Card
-Health Card that acts as an identity proof which manages our day to day health history like disease, allergy etc., It aims to store all the health related information day to day data centrally which can be analyzed by using certain mechanism to retrieve the health trends of different state, city and area.
 
 We have aadhar card, Pan card, Voter id, Driving licence like identity proofs for our day to day
 transactions, but we have major missing that is our health card, which manages our day to day
